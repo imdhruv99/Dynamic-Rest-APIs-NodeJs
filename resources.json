@@ -1,0 +1,33 @@
+[
+    {
+        "resource": "student",
+
+        "methods": [
+            "GET",
+            "POST",
+            "PUT"
+        ],
+
+        "fields": [
+    		"name",
+            "percentage"
+        ]
+
+    },
+
+
+    {
+        "resource": "book",
+
+        "methods": [
+            "GET",
+            "POST",
+            "PUT"
+        ],
+
+        "fields": [
+    		"name",
+            "price"
+        ]
+    }    
+]

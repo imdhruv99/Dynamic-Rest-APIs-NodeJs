@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-node-rest-api",
+  "main": "server.js",
+  "author": "Dhruv Prajapati",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2",
+    "fs": "0.0.2",
+    "mongoose": "^5.9.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imdhruv99/Dynamic-Rest-APIs-NodeJs"
+  }
+}
